@@ -18,6 +18,7 @@ Os sistemas de recomendação são uma subárea de recuperação de informação
 - Scipy
 - Pandas
 - sklearn
+- jupyter
 
 # Bases de Dados
 
