@@ -19,9 +19,24 @@ Os sistemas de recomendação são uma subárea de recuperação de informação
 - Pandas
 - sklearn
 - jupyter
+- caserecommender == 1.0.1
 
 # Bases de Dados
 
+Movie Lens 100k (Pasta Dataset)
 
-# Ferramentas
+[Other Databases](https://github.com/ArthurFortes/Datasets-for-Recommneder-Systems)
+
+
+# Mini Desafio
+
+Criar um perfil representativo do usuário para utilizar no algoritmo User Attribute KNN, 
+baseado em item recommendation (Ranking). O algoritmo está disponível na ferramenta 
+[CaseRecommender](https://github.com/ArthurFortes/CaseRecommender/blob/master/caserec/recommenders/item_recommendation/item_attribute_knn.py). 
+E o arquivo de perfil de usuário deve seguir o seguinte formato: 
+
+usuário(sep)metadado(característica)(sep)valor(se houver, pode ser implícito)
+
+Por default na ferramenta (sep)=\t.
+
 
