@@ -23,7 +23,7 @@ Os sistemas de recomendação são uma subárea de recuperação de informação
 
 # Bases de Dados
 
-Movie Lens 100k (Pasta Dataset)
+Movie Lens 100k (Pasta /dataset)
 
 [Other Databases](https://github.com/ArthurFortes/Datasets-for-Recommneder-Systems)
 
@@ -37,6 +37,6 @@ E o arquivo de perfil de usuário deve seguir o seguinte formato:
 
 usuário(sep)metadado(característica)(sep)valor(se houver, pode ser implícito)
 
-Por default na ferramenta (sep)=\t.
+Por default, na ferramenta, (sep)=\t.
 
 
