@@ -33,7 +33,8 @@ Movie Lens 100k (Pasta /dataset)
 Criar um perfil representativo do usuário para utilizar no algoritmo User Attribute KNN, 
 baseado em item recommendation (Ranking). O algoritmo está disponível na ferramenta 
 [CaseRecommender](https://github.com/ArthurFortes/CaseRecommender/blob/master/caserec/recommenders/item_recommendation/item_attribute_knn.py). 
-E o arquivo de perfil de usuário deve seguir o seguinte formato: 
+
+O arquivo de perfil de usuário deve seguir o seguinte formato: 
 
 usuário(sep)metadado(característica)(sep)valor(se houver, pode ser implícito)
 
