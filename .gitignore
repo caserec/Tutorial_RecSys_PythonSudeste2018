@@ -1,9 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/*
 .gitignore
 .idea/Workshop_MonitoraSummer.iml
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-.idea
 notebooks/.ipynb_checkpoints/
