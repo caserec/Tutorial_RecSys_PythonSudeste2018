@@ -44,3 +44,7 @@ Por default, na ferramenta, (sep)=\t.
 
 [Formulário de avaliação](https://docs.google.com/forms/d/e/1FAIpQLSeYEM55GCeoPs03m5TFrExYHlxP8rhSVKDommrKw2cv-iKdvA/viewform?usp=sf_link)
 
+## Contatos:
+
+arthurfortes.github.io
+fortes.arthur@gmail.com
