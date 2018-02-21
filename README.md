@@ -40,4 +40,7 @@ usuário(sep)metadado(característica)(sep)valor(se houver, pode ser implícito)
 
 Por default, na ferramenta, (sep)=\t.
 
+## Avaliar Workshop
+
+[Formulário de avaliação](https://docs.google.com/forms/d/e/1FAIpQLSeYEM55GCeoPs03m5TFrExYHlxP8rhSVKDommrKw2cv-iKdvA/viewform?usp=sf_link)
 
