@@ -24,7 +24,7 @@ Serão abordados, ainda, conceitos de Aprendizado de Máquina e Inteligência Ar
 - Pandas
 - sklearn
 - jupyter
-- caserecommender == 1.0.1
+- caserecommender
 
 # Bases de Dados
 
