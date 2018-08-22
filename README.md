@@ -1,4 +1,4 @@
-# Tutorial Case Recommender (Python Sudeste)
+# Tutorial Instrodução a Sistemas de Recomendação (Python Sudeste)
 
 Título: Case Recommender: Utilizando Python para desenvolver sistemas de recomendação
 
@@ -28,7 +28,7 @@ Serão abordados, ainda, conceitos de Aprendizado de Máquina e Inteligência Ar
 
 # Bases de Dados
 
-Movie Lens 100k (Pasta /dataset)
+MovieLens 100k (Pasta /dataset)
 
 [Other Databases](https://github.com/ArthurFortes/Datasets-for-Recommneder-Systems)
 
